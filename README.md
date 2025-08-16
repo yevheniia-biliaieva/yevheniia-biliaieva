@@ -1,5 +1,3 @@
-<img src="cover.png" alt="frontend-playground" align="center">
-
 # Hi 👋, I'm Yevhenia Biliaieva
 ### Front-End Developer
 
