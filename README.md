@@ -18,8 +18,8 @@
 
 ### 📬 Connect with me:
 <p>
-  <a href="https://www.linkedin.com/in/yevheniia-biliaieva/" target="blank"><img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yevheniia-biliaieva"/></a>
-  <a href="mailto:biliaieva99@gmail.com"><img width="40px" align="center"src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/yevheniia-biliaieva/" target="_blank"><img height="30" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yevheniia-biliaieva"/></a>
+  <a href="mailto:biliaieva99@gmail.com"><img width="40px" align="center"src="https://img.icons8.com/color/96/null/gmail--v1.png" target="_blank"/></a>
 </p>
 
 ### Languages and Tools:
