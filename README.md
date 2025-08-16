@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yevhenia Biliaieva
+# Hi 👋
 ### Full-stack Developer
 
 <p align="justify">
