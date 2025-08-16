@@ -14,7 +14,7 @@
 
 - 👩‍💻 My projects are available on [GitHub](https://github.com/yevheniia-biliaieva)
 
-- 📄 [View my CV (PDF)](https://drive.google.com/file/d/1hl6Em-9S4qwuiBZRxaOwCzi7c71svCfy/view?usp=drive_link)
+- 📄 [View my CV (PDF)](https://drive.google.com/file/d/1bVW5KGRBWzT0UfEjWoKYL5WA9niokgCZ/view?usp=sharing)
 
 ### 📬 Connect with me:
 <p>
