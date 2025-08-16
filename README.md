@@ -12,7 +12,7 @@
 
 <img align="right" alt="coding" width="250" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952ie83i893ueykvo4nlam63o6oikksd4hpe7xt82n1&ep=v1_gifs_search&rid=200w.gif&ct=g">
 
-- 👩‍💻 My projects are available on [GitHub](https://github.com/yevhenia-biliaieva)
+- 👩‍💻 My projects are available on [GitHub](https://github.com/yevheniia-biliaieva)
 
 - 📄 [View my CV (PDF)](https://drive.google.com/file/d/1hl6Em-9S4qwuiBZRxaOwCzi7c71svCfy/view?usp=drive_link)
 
@@ -52,7 +52,7 @@ Other Tools
   Projects
 </h2>
 
-- 🛠️ [Landing Page: Bike Store](https://yevhenia-biliaieva.github.io/landing-BIKE/)
+- 🛠️ [Landing Page: Nothing Store](https://yevheniia-biliaieva.github.io/Nothing_landing-page/)
   Built with HTML, CSS, Flexbox, Grid, and fully responsive.
 
 <h2>
