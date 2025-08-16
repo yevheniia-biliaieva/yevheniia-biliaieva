@@ -1,11 +1,11 @@
 # Hi 👋, I'm Yevhenia Biliaieva
-### Front-End Developer
+### Full-stack Developer
 
 <p align="justify">
-  Hey! I'm Yevhenia, a front-end developer with a passion for building clean and responsive layouts.
-  I have experience with HTML, CSS, JavaScript, and Git. Currently, I'm deepening my skills in React and TypeScript at Mate Academy.
-  I'm also exploring Vue.js and eager to keep growing as a developer.
-  I'm open to part-time, remote, and trainee opportunities where I can learn, contribute, and grow in a supportive environment.
+Hey! I'm Yevhenia, a future full-stack developer with a passion for building clean and responsive layouts.
+I’ve already gained experience with HTML, CSS, JavaScript, and Git. Currently, I’m studying Software Engineering at Modern Technologies University and deepening my skills in React, TypeScript, and Node.js at Mate Academy.
+I’m also exploring Vue.js, SQL, and Java, and I’m eager to keep growing as a developer.
+I’m open to part-time, remote, and trainee opportunities where I can learn, contribute, and grow in a supportive environment.
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 - 👩‍💻 My projects are available on [GitHub](https://github.com/yevheniia-biliaieva)
 
-- 📄 [View my CV (PDF)](https://drive.google.com/file/d/1bVW5KGRBWzT0UfEjWoKYL5WA9niokgCZ/view?usp=sharing)
+- 📄 [View my CV (PDF)](https://drive.google.com/file/d/1d27-cCgcF-MwMbUMgLysKn7t2JN2URAq/view?usp=sharing)
 
 ### 📬 Connect with me:
 <p>
