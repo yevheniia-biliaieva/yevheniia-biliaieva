@@ -1,11 +1,10 @@
 # Hi 👋
-### Full-stack Developer
+### Front-End Developer
 
 <p align="justify">
-Hey! I'm Yevhenia, a future full-stack developer with a passion for building clean and responsive layouts.
-I’ve already gained experience with HTML, CSS, JavaScript, and Git. Currently, I’m studying Software Engineering at Modern Technologies University and deepening my skills in React, TypeScript, and Node.js at Mate Academy.
-I’m also exploring Vue.js, SQL, and Java, and I’m eager to keep growing as a developer.
-I’m open to part-time, remote, and trainee opportunities where I can learn, contribute, and grow in a supportive environment.
+Software Engineering student and Front-End Developer focused on building clean, responsive, and user-friendly web applications.
+Studying at the University of Modern Technologies and improving React, TypeScript, and Node.js skills at Mate Academy.
+Open to trainee or junior opportunities to grow and contribute to real projects.
 </p>
 
 ---
