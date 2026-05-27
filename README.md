@@ -13,7 +13,7 @@ Open to trainee or junior opportunities to grow and contribute to real projects.
 
 - 👩‍💻 My projects are available on [GitHub](https://github.com/yevheniia-biliaieva)
 
-- 📄 [View my CV (PDF)](https://drive.google.com/file/d/14LuoJkEWWcr-nHMuwAGpdQ7dPHmqZ9sY/view?usp=sharing](https://drive.google.com/file/d/1g4dFo7smYfZJ7CHFyuzHzXvTz_jYS-tB/view?usp=sharing)
+- 📄 [View my CV (PDF)](https://drive.google.com/file/d/1g4dFo7smYfZJ7CHFyuzHzXvTz_jYS-tB/view?usp=sharing)
 
 ### 📬 Connect with me:
 <p>
