@@ -3,7 +3,7 @@
 
 <p align="justify">
 Software Engineering student and Front-End Developer focused on building clean, responsive, and user-friendly web applications.
-Studying at the University of Modern Technologies and improving React, TypeScript, and Node.js skills at Mate Academy.
+Studying at the University of Modern Technologies and improving React, TypeScript skills at Mate Academy.
 Open to trainee or junior opportunities to grow and contribute to real projects.
 </p>
 
@@ -13,7 +13,7 @@ Open to trainee or junior opportunities to grow and contribute to real projects.
 
 - 👩‍💻 My projects are available on [GitHub](https://github.com/yevheniia-biliaieva)
 
-- 📄 [View my CV (PDF)](https://drive.google.com/file/d/10QY5mrYEKBY3EFCEP-zqrpJx90j3J80a/view?usp=sharing)
+- 📄 [View my CV (PDF)](https://drive.google.com/file/d/1PKfwCrKohOlSK98Wl5XYwRjNaDKmRx6H/view?usp=sharing)
 
 ### 📬 Connect with me:
 <p>
